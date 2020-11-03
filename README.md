@@ -1,2 +1,5 @@
-# How-computer-works
- This is the computer sciense year 1 module
+# How-Computer-Works
+# Created slides about abstration
+    - Notional Machine
+    - Data Represantion
+    
